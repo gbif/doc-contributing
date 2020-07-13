@@ -1,4 +1,6 @@
 = Contributing to GBIF documents
+GBIF Secretariat <communication@gbif.org>
+:docinfo: shared-head
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
@@ -9,7 +11,7 @@ endif::backend-html5[]
 [#improving]
 == Improve this document
 
-https://www.gbif.org[GBIF] invites community members to contribute to, improve and maintain our https://docs.gbif.org/documentation-guidelines/en/[digital documentation ].
+https://www.gbif.org[GBIF] invites community members to contribute to, improve and maintain our https://docs.gbif.org/documentation-guidelines/en/[digital documentation].
 
 If you are a first-time user, please don’t let the code-developer vernacular of ‘branches’, ‘pull requests’ and ‘commits’ frighten you. Our use of GitHub, while squarely based on its technical capabilities, is equally important from an editorial perspective. The design and format of the materials we publish through this system aim to ensure that any guidance we prepare and commission is uniform, reliable, reusable, versioned and up-to-date. Your contributions are vital to achieving this. 
 
